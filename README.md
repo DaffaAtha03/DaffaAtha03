@@ -2,10 +2,6 @@
 <h3 align="center">Data Science & Machine Learning Specialist<br>Menuju AI Engineer & AI Agent Developer</h3>
 
 <p align="center">
-  <img src="https://github.com/DaffaAtha03/Portofolio-Daffa-Atha/raw/main/assets/img/foto-profil.jpg" width="150" alt="Foto Daffa" style="border-radius:50%">
-</p>
-
-<p align="center">
   <a href="https://daffaatha03.github.io/Portofolio-Daffa-Atha/">🌐 Portofolio</a> ·
   <a href="https://github.com/DaffaAtha03/Portofolio-Daffa-Atha/blob/main/cv.pdf">📄 CV (ID)</a> ·
   <a href="https://github.com/DaffaAtha03/Portofolio-Daffa-Atha/blob/main/cv-en.pdf">📄 CV (EN)</a> ·
